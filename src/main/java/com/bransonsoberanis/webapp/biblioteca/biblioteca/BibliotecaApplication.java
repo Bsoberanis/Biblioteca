@@ -1,13 +1,13 @@
-package com.brandonsoberanis.webapp.biblioteca;
+package com.bransonsoberanis.webapp.biblioteca.biblioteca;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BibliotecaIn5CmApplication {
+public class BibliotecaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BibliotecaIn5CmApplication.class, args);
+		SpringApplication.run(BibliotecaApplication.class, args);
 	}
 
 }
